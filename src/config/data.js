@@ -15,8 +15,8 @@ export const chartDays = [
     format: "MMM'D",
   },
   {
-    label: 'All',
-    value: 'max',
+    label: '1y',
+    value: '365',
     format: 'MMM YYYY',
   },
 ];
