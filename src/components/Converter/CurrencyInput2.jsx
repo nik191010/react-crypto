@@ -25,7 +25,7 @@ const CurrencyInput2 = ({
             {/* Sets initial image to select */}
             <img
               className={styles.converterImg}
-              src={!!flagImg ? flagImg : flags[40]?.flags?.svg}
+              src={!!flagImg ? flagImg : flags[41]?.flags?.svg}
               alt={`CryptoApp:${currency2}`}
             />
             <p>{currency2.toUpperCase()}</p>
